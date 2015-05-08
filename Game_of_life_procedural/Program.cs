@@ -36,7 +36,7 @@ namespace ConsoleApplication1
         /*
          * Cell char
          * */
-        static string cellChar = "O";
+        static string cellChar = "Z";
 
         /*
          * Cell matrix, each cell is a boolean that is either alive or dead.
