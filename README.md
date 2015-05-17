@@ -18,3 +18,5 @@ an (almost) procedural game of life implementation in C# written to be easy to u
                                                                
       LICENSE:                                                 
            Do what you want with it
+           
+           Test
